@@ -5,11 +5,14 @@
 layout: home
 ---
 
-## News
+Site under construction. May change or go down frequently.
+{: .label .label-yellow }
+
+## Updates
 * Mar 1, 2019 - the IJ-Plugins website started its transition from the [old location](https://ij-plugins.sourceforge.net/) to here
 
 ## ImageJ Plugin Bundles and Libraries
-* **[ij-Plugins Toolkit](https://github.com/ij-plugins)** - Set of ImageJ plugins and library for: reading and writing of 3D images, morphological operations on 3D images, color space conversion, color edge detection, various anisotropic diffusion filters, fast median filters, image quilting, image segmentation through clustering and region growing, and more.
+* **[ijp-toolkit](https://github.com/ij-plugins/ijp-toolkit)** - Set of ImageJ plugins and library for: reading and writing of 3D images, morphological operations on 3D images, color space conversion, color edge detection, various anisotropic diffusion filters, fast median filters, image quilting, image segmentation through clustering and region growing, and more.
 * **[ijp-color](https://github.com/ij-plugins/ijp-color)** - Operations on color spaces and color images, color conversion, and color calibration. 
 * **[ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX)** - Bayer-pattern image to color image converters.
 * **[ijp-scala-console](https://github.com/ij-plugins/ijp-scala-console)** - edit and run Scala scripts from ImageJ, have full access to ImageJ API and API's of all installed plugins.
