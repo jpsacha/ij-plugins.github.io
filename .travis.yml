@@ -3,5 +3,5 @@ cache: bundler
 sudo: false
 rvm:
 - 2.6.1
-before_script: bundle install
+before_script: gem install bundler:2.0.1; bundle install
 script: "bundle exec jekyll build"
