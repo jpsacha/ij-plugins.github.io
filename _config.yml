@@ -25,7 +25,7 @@ github_username:  ij-plugins
 markdown: kramdown
 theme: minima
 #theme: just-the-docs
-#color_scheme: "dark"
+color_scheme: "dark"
 plugins:
   - jekyll-feed
 
