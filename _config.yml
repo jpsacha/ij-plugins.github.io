@@ -23,9 +23,8 @@ github_username:  ij-plugins
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: just-the-docs
-#remote_theme: pmarsceill/just-the-docs
+theme: minima
+#theme: just-the-docs
 #color_scheme: "dark"
 plugins:
   - jekyll-feed
