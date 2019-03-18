@@ -9,7 +9,7 @@ Site under construction. May change or go down frequently.
 {: .label .label-yellow }
 
 ## Updates
-* Mar 1, 2019 - the IJ-Plugins website started its transition from the [old location](https://ij-plugins.sourceforge.net/) to here
+* Mar 1, 2019 - the IJ-Plugins website started its transition from the [old location](http://ij-plugins.sourceforge.net/) to here
 
 ## ImageJ Plugin Bundles and Libraries
 * **[ijp-toolkit](https://github.com/ij-plugins/ijp-toolkit)** - Set of ImageJ plugins and library for: reading and writing of 3D images, morphological operations on 3D images, color space conversion, color edge detection, various anisotropic diffusion filters, fast median filters, image quilting, image segmentation through clustering and region growing, and more.
@@ -19,7 +19,7 @@ Site under construction. May change or go down frequently.
 * **[ijp-imageio](https://github.com/ij-plugins/ijp-imageio)** - adds support for additional image file formats and sub-formats: BMP, FlashPIX, GIF, JPEG, PNG, PNM, and TIFF. Improves mapping of sample sizes, e.g., a 16 bit PNG or compressed TIFF images are read into ImageJ's ShortProcessor (16 bits per pixel). Enables reading and writing of 1 bit, 8 bit, 16 bit, 32 bit, tiled, compressed, and multi-page TIFF images. The I/O operations are performed using JAI codec.
 
 ## Past Projects
-For details see [the old website](https://ij-plugins.sourceforge.net/).
+For details see [the old website](http://ij-plugins.sourceforge.net/).
 
 ###  ImageJ Plugin Bundles and Libraries
 * **ij-DCRaw** - open in ImageJ raw images from digital cameras with a help of DCRaw tool. Control how raw or how processed the opened image is.
